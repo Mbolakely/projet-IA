@@ -34,6 +34,11 @@ Le fichier `start_server.bat` effectue automatiquement :
        ```prolog
        server(8080).
        ```  
+       - **Arreter le serveur** avec :  
+       ```prolog
+       http_stop_server(8080, []).
+       ```  
+
      - **Quitter Prolog** avec :  
        ```prolog
        halt.
