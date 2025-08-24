@@ -6,7 +6,7 @@ Ce projet utilise **SWI-Prolog** pour exécuter un serveur web défini dans le f
 
 ## Démarrage rapide
 
-Exécutez simplement le script suivant :  
+Lancer simplement le fichier suivant :  
 
 ```bash
 start_server.bat
